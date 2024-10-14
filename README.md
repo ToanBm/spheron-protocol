@@ -164,10 +164,10 @@ docker --version
 ![image](https://github.com/user-attachments/assets/3052022b-2a14-42a7-8613-bf6ea5624a08)
 3. Download the `fizzup.sh` script to your PC.
 - Creat `node folder`
+- In `fizz-node` folder on your VPS, choose upload file fizzup.sh.
 ```console
 mkdir fizz-node && cd fizz-node
 ```
-In `fizz-node` folder on your VPS, choose upload file `fizzup.sh`
 4. Give persmissions to script
 ```console
 chmod +x fizzup.sh
