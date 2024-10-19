@@ -1,4 +1,26 @@
 # Spheron Protocol
+## Upgrade v1.0.1
+### 1. Download the `fizzup-v1.0.1.sh` script to your PC.
+- In `fizz-node` folder on your VPS, choose upload file `fizzup-v1.0.1.sh`.
+```console
+cd fizz-node
+```
+### 2. Give persmissions to script
+```console
+chmod +x fizzup-v1.0.1.sh
+```
+### 3. Run Fizz Node Script
+```
+./fizzup-v1.0.1.sh
+```
+### 4. Check the logs
+```
+docker-compose -f ~/.spheron/fizz/docker-compose.yml logs -f
+```
+
+## ........ Done! .............................................
+
+
 ## Part 1. Deploy Your App on Spheron Protocol
 ### Step 1: Install Spheron Protocol sphnctl CLI
 ```Bash
