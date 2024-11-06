@@ -7,11 +7,11 @@ cd fizz-node
 ```
 ### 2. Give persmissions to script
 ```console
-chmod +x fizzup-v1.0.1.sh
+chmod +x fizzup-v1.1.0.sh
 ```
 ### 3. Run Fizz Node Script
 ```
-./fizzup-v1.0.1.sh
+./fizzup-v1.1.0.sh
 ```
 ### 4. Check the logs
 ```
