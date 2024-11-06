@@ -1,5 +1,5 @@
 # Spheron Protocol
-## Upgrade v1.0.1
+## Upgrade-v1.1.0
 ### 1. Download the `fizzup-v1.0.1.sh` script to your PC.
 - In `fizz-node` folder on your VPS, choose upload file `fizzup-v1.0.1.sh`.
 ```console
